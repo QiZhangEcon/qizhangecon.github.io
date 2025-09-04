@@ -1,10 +1,8 @@
 ---
-title: "Pollution Haven Next Door: Evidence from China"
+title: "Pollution Haven Next Door: Evidence from China (Job Market Paper)"
 collection: publications
 permalink: /publication/jmp
-date: 2025-09-04
 authors: "Qi Zhang"
-venue: "Job Market Paper"
 paperurl: /files/JMP.pdf
 status: working-paper       # 👈 use this to group
 excerpt: >
