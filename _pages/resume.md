@@ -1,13 +1,15 @@
 ---
-layout: archive
+layout: single
 title: "Resume"
 permalink: /resume/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-<hr>
-[Download My Resume (PDF)]()
+[Download My Resume (PDF)]({{ '/files/Qi_Resume.pdf' | relative_url }})
 
-<iframe src="" width="100%" height="800px" frameborder="0"></iframe>
+<iframe
+  src="{{ '/files/Qi_Resume.pdf' | relative_url }}"
+  width="100%"
+  height="800"
+  style="border:0"
+></iframe>
