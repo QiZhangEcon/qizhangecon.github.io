@@ -6,6 +6,6 @@ authors: "Qi Zhang (with Peter Debaere & Tianshu Li)"
 status: wip
 weight: 10
 excerpt: >
-  This paper studies when and why irrigators take water in excess of their permitted rights and how priority (senior vs. junior rights) shapes that behavior.
+  Prior appropriation is the dominant water rights system in the Western United States that privileges water access by seniority. Using a novel micro dataset for Colorado’s largest sub-basin along the Colorado River, we study whether Colorado’s prior-appropriation regime allocates water to its most productive uses via an instrumental-variables strategy. 
 
 ---
