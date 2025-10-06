@@ -15,8 +15,14 @@ permalink: /research/
   {% if p.authors %}<p><em>{{ p.authors }}</em></p>{% endif %}
   {% if p.excerpt %}<p>{{ p.excerpt }}</p>{% endif %}
   <p>
-    {% if p.paperurl %}<a href="{{ p.paperurl | relative_url }}" class="btn">Download Paper</a>{% endif %}
-  </p>
+  {% if p.paperurl %}
+    <a href="{{ p.paperurl | relative_url }}" class="btn">Download Paper</a>
+  {% elsif p.coming_soon %}
+    <span class="btn" aria-disabled="true" style="pointer-events:none;opacity:.65;">
+      Draft coming soon
+    </span>
+  {% endif %}
+</p>
 </div>
 <hr/>
 {% endfor %}
