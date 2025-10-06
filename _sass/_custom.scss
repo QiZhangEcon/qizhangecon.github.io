@@ -1,6 +1,20 @@
-/* Keep the author sidebar above footer/cards */
-.page__sidebar { position: relative; z-index: 2; }
-.page__footer  { position: relative; z-index: 1; }
+/* Keep the left author sidebar above the footer */
+.sidebar {               /* this is the sticky sidebar element */
+  position: sticky;      /* keep your sticky behavior */
+  top: 2rem;             /* adjust if you want it closer/farther from top */
+  z-index: 1000;         /* higher than footer */
+  background: #fff;      /* ensure it doesn't look “under” anything */
+}
 
-/* Extra safety: ensure content doesn't overlap the sidebar */
-.page__content { position: relative; z-index: 1; }
+/* Lower the stacking order of the footer so it won't cover the sidebar */
+.page__footer, .site-footer {
+  position: relative;
+  z-index: 1;
+}
+
+/* Extra safety: make the contact list inside the sidebar sit on top too */
+.author__urls-wrapper,
+.author__content {
+  position: relative;
+  z-index: 1001;
+}
