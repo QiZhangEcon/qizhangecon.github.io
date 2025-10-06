@@ -14,8 +14,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-- title: "CV"
+  - title: "CV"
     url: /files/Qi_Resume.pdf
 
-- title: "Resume"
+  - title: "Resume"
     url: /resume/
