@@ -30,7 +30,6 @@ author:
   employer         : "University of Virginia"
   uri              : # URL
   email            : "qz4vg@virginia.edu" 
-  linkedin         : "qi-zhang-915b94384"
   
   # Academic websites
   academia         : # URL
@@ -63,6 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
+  linkedin         : "qi-zhang-915b94384"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -155,7 +155,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
@@ -302,7 +302,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
