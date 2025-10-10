@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Qi's Homepage"
+title                    : "Qi Zhang"
 title_separator          : "-"
 name                     : &name "Qi Zhang"
 description              : &description "personal description"
