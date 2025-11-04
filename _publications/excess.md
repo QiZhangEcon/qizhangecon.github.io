@@ -3,7 +3,7 @@ title: "First in use, first in right, first in productivity? The empirics of pri
 collection: publications
 permalink: /publication/excess
 authors: "Peter Debaere, Tianshu Li, **Qi Zhang**, Swatantra Sharma, Mesfin Mekonnen"
-# paperurl: /files/JMP_Qi.pdf
+# paperurl:
 status: working-paper
 # coming_soon: true 
 excerpt: >
