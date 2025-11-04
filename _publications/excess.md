@@ -1,10 +1,11 @@
 ---
-title: "The Empirics of Prior Appropriation in the Colorado River Basin"
+title: "First in use, first in right, first in productivity? The empirics of prior appropriation in the Colorado River Basin"
 collection: publications
 permalink: /publication/excess
-authors: "Qi Zhang (with Peter Debaere & Tianshu Li)"
-status: wip
-weight: 10
+authors: "Peter Debaere, Tianshu Li, **Qi Zhang**, Swatantra Sharma, Mesfin Mekonnen"
+# paperurl: /files/JMP_Qi.pdf
+status: working-paper
+# coming_soon: true 
 excerpt: >
-  Prior appropriation is the dominant water rights system in the Western United States that privileges water access by seniority. Using a novel micro dataset for Colorado’s largest sub-basin along the Colorado River, we study whether Colorado’s prior-appropriation regime allocates water to its most productive uses via an instrumental-variables strategy. 
+  Prior appropriation is a water rights system that allocates water access based on seniority. With microdata from diverting structures in a large water-stressed sub-basin of the Colorado River, we examine whether agricultural productivity increases with seniority and assess the rights system’s overall allocative efficiency. Drawing on data from 2013 to 2022, we investigate how productivity interacts with the decision of prior appropriations’ marginal users to withdraw water in excess of their water rights when prior appropriation is temporarily suspended (i.e., under the free river condition). Probit analysis reveals that excess use is more likely for more productive users, indicating potential for efficiency improvements within the system. Suspending prior appropriation does not lead to wasteful water use but may enable productivity gains—similar to those observed in water markets. Instrumental variable analysis confirms that the most secure rights holders with senior access during suspension periods, are not more likely to engage in excess use. However, senior rights associated with smaller allocations do exhibit excess withdrawals, highlighting institutional nuances in how water is accessed. 
 ---
