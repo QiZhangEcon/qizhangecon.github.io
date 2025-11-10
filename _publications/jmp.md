@@ -3,7 +3,7 @@ title: "Pollution Haven Next Door: Evidence from China"
 collection: publications
 permalink: /publication/jmp
 authors: "Qi Zhang"
-paperurl: /files/JMP_Qi.pdf
+paperurl: /files/JMP.pdf
 status: jmp
 # coming_soon: true 
 excerpt: >
