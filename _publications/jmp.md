@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/jmp
 authors: "Qi Zhang"
 paperurl: /files/JMP.pdf
+slides: /files/JMP_slides.pdf
 status: jmp
 # coming_soon: true 
 excerpt: >
